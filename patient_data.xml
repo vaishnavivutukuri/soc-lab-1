@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xmlstylesheet.xsl"?>
+<patients>
+    <patient>
+        <name>Priya</name>
+        <age>8</age>
+        <gender>female</gender>
+    </patient>
+    <patient>
+        <name>Daniel</name>
+        <age>43</age>
+        <gender>male</gender>
+        </patient>
+        <patient>
+            <name>Mai</name>
+            <age>22</age>
+            <gender>female</gender>
+        </patient>
+        <patient>
+            <name>Shreya</name>
+            <age>52</age>
+            <gender>female</gender>
+        </patient>
+        <patient>
+            <name>Dinnu</name>
+            <age>62</age>
+            <gender>male</gender>
+        </patient>
+<patient>
+                        <name>Dhana</name>
+                        <age>82</age>
+                        <gender>male</gender>
+                    </patient><patient>
+                        <name> sneha setty</name>
+                        <age>9</age>
+                        <gender>female</gender>
+                    </patient></patients>
